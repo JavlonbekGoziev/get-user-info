@@ -28,6 +28,7 @@ This project demonstrates how to fetch user data from an API using **Node.js** a
    
    cd GetUserInfo
 
-
+   (It is only been 4 days, and I have 26 projects to complete. These projects will vary in difficulty, ranging from easy to intermediate to challenging. You'll be able to see the progress throughout this month.)
+  
 💬 Questions?
 Open an issue or reach out!
